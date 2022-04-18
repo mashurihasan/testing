@@ -13,6 +13,7 @@
                 <mapping row="1" col="7">bulkUploadFraudCase.closedReason</mapping>
                 <mapping row="1" col="8">bulkUploadFraudCase.closedDate</mapping>
                 <mapping row="1" col="9">bulkUploadFraudCase.pic</mapping>
+                <mapping row="1" col="10">bulkUploadFraudCase.suspendedType</mapping>
             </section>
             <loopbreakcondition>
                 <rowcheck offset="1">
